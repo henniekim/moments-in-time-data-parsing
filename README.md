@@ -8,7 +8,7 @@ Virtual environment is recommended!
 
 ## Data
 You can download moments in Time dataset from 
-> http://www....
+> http://moments.csail.mit.edu/
 
 ## Usage 
 1. Command line (sorry for long arguments)
@@ -19,6 +19,8 @@ python data_parsing.py [source_folder] [detination_folder] --ext mp4 [trainingSe
 Fix given script file named "data_parsing.sh", if you don't want to type such a long command as above
 
 ## Updates
+* 0.0.1
+  * Frame extractor added
 
 ## Contacts
 
