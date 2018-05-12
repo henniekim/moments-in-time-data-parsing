@@ -17,7 +17,7 @@ You can download moments in Time dataset from
 python data_parsing.py [source_folder] [detination_folder] --ext mp4 [trainingSet_source] [validationSet_source] [categories_source] --mode getframe
 ```
 2. Scripts (recommended)  
-Fix given script file named "data_parsing.sh", if you don't want to type such a long command as above
+If you don't want to type such a long command as above, fix given script file named "data_parsing.sh"
 
 ## Updates
 * 0.0.1
